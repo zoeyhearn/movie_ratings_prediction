@@ -1,5 +1,5 @@
 # MOVIE RATINGS MODEL
-Requirements are PYTHON 2.7(any), scikit-learn, pandas, and pydotplus.
+Requirements are PYTHON 2.7(any), scikit-learn, pandas, pydotplus and graphviz.
 
 ## download datasets
 ```bash
